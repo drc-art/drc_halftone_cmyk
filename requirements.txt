@@ -1,0 +1,10 @@
+PySide6>=6.7
+Pillow>=10.0
+numpy>=1.26
+
+# Optional (enable advanced features if installed)
+opencv-python>=4.9
+numba>=0.59
+svgwrite>=1.4
+svgpathtools>=1.6
+reportlab>=4.0
